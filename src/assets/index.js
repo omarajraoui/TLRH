@@ -1,0 +1,1 @@
+export const Profile = require('./Collabs/profile.png');

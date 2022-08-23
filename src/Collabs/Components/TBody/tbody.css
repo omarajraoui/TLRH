@@ -1,0 +1,19 @@
+
+.tlrh__list-tbody{
+    display: flex;
+    justify-content: flex-start;
+    border: 1px solid #231955;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+.tlrh__list-tbody_icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.tlrh__list-tbody_td{
+    flex: 1;
+    display: flex;
+    padding: 0 0 0 0;
+    justify-content: space-evenly;
+}
